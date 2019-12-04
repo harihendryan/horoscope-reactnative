@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Aquarius",
+        "date": "January 20 - February 18",
+        "picture": "http://www.teknhil.tech/zodiac/aquari.png",
+  },
+  {
+        "title": "Pisces",
+        "date": "February 19 - March 20",
+        "picture": "http://www.teknhil.tech/zodiac/pisces.png",
+  },
+  {
+        "title": "Aries",
+        "date": "March 21 - April 19",
+        "picture": "http://www.teknhil.tech/zodiac/aries.png",
+  },
+  {
+        "title": "Taurus",
+        "date": "April 20 - May 20",
+        "picture": "http://www.teknhil.tech/zodiac/taurus.png",
+  },
+  {
+        "title": "Gemini",
+        "date": "May 21 - June 20",
+        "picture": "http://www.teknhil.tech/zodiac/gemini.png",
+  },
+  {
+        "title": "Cancer",
+        "date": "June 21 - July 22",
+        "picture": "http://www.teknhil.tech/zodiac/cancer.png",
+  },
+  {
+        "title": "Leo",
+        "date": "July 23 - August 22",
+        "picture": "http://www.teknhil.tech/zodiac/leo.png",
+  },
+  {
+        "title": "Virgo",
+        "date": "August 23 - September 22",
+        "picture": "http://www.teknhil.tech/zodiac/virgo.png",
+  },
+  {
+        "title": "Libra",
+        "date": "September 23 - October 22",
+        "picture": "http://www.teknhil.tech/zodiac/libra.png",
+  },
+  {
+        "title": "Scorpio",
+        "date": "October 23 - November 21",
+        "picture": "http://www.teknhil.tech/zodiac/scorpio.png",
+  },
+  {
+        "title": "Sagittarius",
+        "date": "November 22 - December 21",
+        "picture": "http://www.teknhil.tech/zodiac/sagitarius.png",
+  },
+  {
+        "title": "Capricorn",
+        "date": "December 22 - January 19",
+        "picture": "http://www.teknhil.tech/zodiac/capricorn.png",
+  }
+]
