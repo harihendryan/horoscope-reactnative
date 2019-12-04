@@ -65,7 +65,11 @@ export default (props) => {
                     <Right>
                       <Button 
                       onPress={ () => {
-                          props.navigation.navigate('Detail')
+                          props.navigation.navigate('Detail', {
+                            name: item.title,
+                            img: item.picture,
+                            date:item.date
+                          })
                       } }
                       transparent>
                         <Text>View</Text>
